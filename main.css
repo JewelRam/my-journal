@@ -1,6 +1,17 @@
+
+
 body {
   background-color: aquamarine;
-  color: aliceblue;
-  
+  color: black;
+  border: .5em solid whitesmoke;
+  font-style: oblique;
+  text-align: left;
 
+}
+h1 {
+color: chocolate;
+border: .2em solid white;
+background-color: darkseagreen;
+font-style: oblique;
+text-align: center;
 }
